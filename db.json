@@ -4,22 +4,22 @@
         {
             "id": 0,
             "description": "Test Tag",
-            "external_url": "https://github.com/arigbs/TestTag/",
-            "image": "https://www.pinclipart.com/picdir/big/484-4849760_free-png-sale-tags-clipart.png",
+            "external_link": "https://github.com/arigbs/TestTag/",
+            "image_url": "https://www.pinclipart.com/picdir/big/484-4849760_free-png-sale-tags-clipart.png",
             "name": "Test Tag 0"
         },
         {
             "id": 1,
             "description": "Test Tag",
-            "external_url": "https://github.com/arigbs/TestTag/",
-            "image": "https://www.pinclipart.com/picdir/big/489-4898251_free-png-sale-tags-illustration-clipart.png",
+            "external_link": "https://github.com/arigbs/TestTag/",
+            "image_url": "https://www.pinclipart.com/picdir/big/489-4898251_free-png-sale-tags-illustration-clipart.png",
             "name": "Test Tag 1"
         },
         {
             "id": 2,
             "description": "Test Tag",
-            "external_url": "https://github.com/arigbs/TestTag/",
-            "image": "https://www.pinclipart.com/picdir/big/485-4855860_free-png-sale-tags-graphic-design-clipart.png",
+            "external_link": "https://github.com/arigbs/TestTag/",
+            "image_url": "https://www.pinclipart.com/picdir/big/485-4855860_free-png-sale-tags-graphic-design-clipart.png",
             "name": "Test Tag 2"
         }
     ]
